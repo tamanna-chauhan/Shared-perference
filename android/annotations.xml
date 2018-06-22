@@ -1,0 +1,5 @@
+<root>
+    <item name='android.R.layout simple_dropdown_item_1line'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>

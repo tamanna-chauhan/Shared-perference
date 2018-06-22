@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Shared_Perfernce</string>
+    <string name="name">NAME</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="email">EMAIL</string>
+    <string name="enter_your_email">Enter Your EMAIL</string>
+    <string name="password">PASSWORD</string>
+    <string name="country">COUNTRY</string>
+    <string name="state">STATE</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="button">Button</string>
+    <string name="submit">SUBMIT</string>
+    <string name="name_1">NAME:</string>
+    <string name="tamana">Tamana</string>
+    <string name="password_1">PASSWORD:</string>
+    <string name="email_1">EMAIL:</string>
+    <string name="country_1">COUNTRY:</string>
+    <string name="state_1">STATE:</string>
+    <string name="chauhantamanna001_gmail_com">chauhantamanna001@gmail.com</string>
+    <string name="helloworld">helloWorld</string>
+    <string name="india">India</string>
+    <string name="harayana">Harayana</string>
+</resources>
